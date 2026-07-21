@@ -11,4 +11,4 @@
 ![](https://streak-stats.demolab.com/?user=mdntarif&theme=dark&hide_border=false)<br/>
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=mdntarif&icon=0&color=0)](https://github.com/mdntarif)
+[![Profile Views](https://komarev.com/ghpvc/?username=mdntarif&icon=0&color=blue)](https://github.com/mdntarif)
